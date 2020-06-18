@@ -1,4 +1,4 @@
-# DinoChromeBot
+# dino-chrome-bot
 Um bot simples para jogar o game do Chrome.
 
 **TO-DO**
